@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "asof": "2026-06-23 23:07",
+    "source": "KIS Open API (via kis_proxy)",
+    "note": "AUM 필드명·옵션OI·단일레버리지 일부코드는 RA 검증 항목"
+  },
+  "nodes": [
+    {
+      "id": "005930",
+      "name": "삼성전자",
+      "type": "stock",
+      "group": "kr_chip",
+      "market_cap": 1812.3,
+      "adv_value": 10.562,
+      "price": 310000.0,
+      "index_weight": {
+        "KOSPI200": 0.3
+      }
+    },
+    {
+      "id": "000660",
+      "name": "SK하이닉스",
+      "type": "stock",
+      "group": "kr_chip",
+      "market_cap": 1821.0,
+      "adv_value": 13.532,
+      "price": 2555000.0,
+      "index_weight": {
+        "KOSPI200": 0.075
+      }
+    },
+    {
+      "id": "NVDA",
+      "name": "엔비디아",
+      "type": "stock",
+      "group": "us_chip",
+      "market_cap": 0,
+      "adv_value": 0,
+      "price": 0
+    },
+    {
+      "id": "SOX",
+      "name": "필라델피아반도체",
+      "type": "index",
+      "group": "us_chip",
+      "market_cap": 0,
+      "adv_value": 0,
+      "price": 0
+    },
+    {
+      "id": "NDX",
+      "name": "나스닥100",
+      "type": "index",
+      "group": "us_idx",
+      "market_cap": 0,
+      "adv_value": 0,
+      "price": 0
+    },
+    {
+      "id": "SPX",
+      "name": "S&P500",
+      "type": "index",
+      "group": "us_idx",
+      "market_cap": 0,
+      "adv_value": 0,
+      "price": 0
+    },
+    {
+      "id": "EWY",
+      "name": "EWY(한국ETF)",
+      "type": "stock",
+      "group": "bridge",
+      "market_cap": 0,
+      "adv_value": 0,
+      "price": 0
+    }
+  ],
+  "etfs": [
+    {
+      "id": "0193W0",
+      "name": "KODEX 삼성전자레버리지",
+      "aum": 1.68,
+      "leverage": 2,
+      "replication": "physical",
+      "single_stock": "005930",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "TIGER_SE_L",
+      "name": "TIGER 삼성전자레버리지",
+      "aum": 0.85,
+      "leverage": 2,
+      "replication": "physical",
+      "single_stock": "005930",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "ACE_SE_L",
+      "name": "ACE 삼성전자레버리지",
+      "aum": 0.1,
+      "leverage": 2,
+      "replication": "physical",
+      "single_stock": "005930",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "RISE_SE_L",
+      "name": "RISE 삼성전자레버리지",
+      "aum": 0.06,
+      "leverage": 2,
+      "replication": "physical",
+      "single_stock": "005930",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "KIWOOM_SE_L",
+      "name": "KIWOOM 삼성전자선물레버리지",
+      "aum": 0.05,
+      "leverage": 2,
+      "replication": "futures",
+      "single_stock": "005930",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "1Q_SE_L",
+      "name": "1Q 삼성전자선물레버리지",
+      "aum": 0.05,
+      "leverage": 2,
+      "replication": "futures",
+      "single_stock": "005930",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "PLUS_SE_L",
+      "name": "PLUS 삼성전자레버리지",
+      "aum": 0.03,
+      "leverage": 2,
+      "replication": "physical",
+      "single_stock": "005930",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "PLUS_SE_I",
+      "name": "PLUS 삼성전자선물인버스2X",
+      "aum": 0.02,
+      "leverage": -2,
+      "replication": "futures",
+      "single_stock": "005930",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "0193T0",
+      "name": "KODEX 하이닉스레버리지",
+      "aum": 2.23,
+      "leverage": 2,
+      "replication": "physical",
+      "single_stock": "000660",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "TIGER_HY_L",
+      "name": "TIGER 하이닉스레버리지",
+      "aum": 1.37,
+      "leverage": 2,
+      "replication": "physical",
+      "single_stock": "000660",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "ACE_HY_L",
+      "name": "ACE 하이닉스레버리지",
+      "aum": 0.12,
+      "leverage": 2,
+      "replication": "physical",
+      "single_stock": "000660",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "RISE_HY_L",
+      "name": "RISE 하이닉스레버리지",
+      "aum": 0.08,
+      "leverage": 2,
+      "replication": "physical",
+      "single_stock": "000660",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "SOL_HY_L",
+      "name": "SOL 하이닉스레버리지",
+      "aum": 0.1,
+      "leverage": 2,
+      "replication": "physical",
+      "single_stock": "000660",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "SOL_HY_I",
+      "name": "SOL 하이닉스선물인버스2X",
+      "aum": 0.05,
+      "leverage": -2,
+      "replication": "futures",
+      "single_stock": "000660",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "KIWOOM_HY_L",
+      "name": "KIWOOM 하이닉스선물레버리지",
+      "aum": 0.06,
+      "leverage": 2,
+      "replication": "futures",
+      "single_stock": "000660",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "1Q_HY_L",
+      "name": "1Q 하이닉스선물레버리지",
+      "aum": 0.06,
+      "leverage": 2,
+      "replication": "futures",
+      "single_stock": "000660",
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "069500",
+      "name": "KODEX 200",
+      "aum": 6.0,
+      "leverage": 1,
+      "replication": "physical",
+      "single_stock": null,
+      "tracks": "KOSPI200",
+      "holdings": null
+    },
+    {
+      "id": "091160",
+      "name": "KODEX 반도체",
+      "aum": 1.1,
+      "leverage": 1,
+      "replication": "physical",
+      "single_stock": null,
+      "tracks": null,
+      "holdings": null
+    },
+    {
+      "id": "396500",
+      "name": "TIGER Fn반도체TOP10",
+      "aum": 0.8,
+      "leverage": 1,
+      "replication": "physical",
+      "single_stock": null,
+      "tracks": null,
+      "holdings": [
+        {
+          "node_id": "000660",
+          "weight": 0.3333
+        },
+        {
+          "node_id": "005930",
+          "weight": 0.2938
+        },
+        {
+          "node_id": "042700",
+          "weight": 0.0839
+        },
+        {
+          "node_id": "240810",
+          "weight": 0.0629
+        },
+        {
+          "node_id": "000990",
+          "weight": 0.0596
+        },
+        {
+          "node_id": "058470",
+          "weight": 0.0507
+        },
+        {
+          "node_id": "039030",
+          "weight": 0.0489
+        },
+        {
+          "node_id": "403870",
+          "weight": 0.0363
+        },
+        {
+          "node_id": "095340",
+          "weight": 0.0172
+        },
+        {
+          "node_id": "357780",
+          "weight": 0.0134
+        }
+      ]
+    },
+    {
+      "id": "122630",
+      "name": "KODEX 레버리지",
+      "aum": 2.5,
+      "leverage": 2,
+      "replication": "futures",
+      "single_stock": null,
+      "tracks": "KOSPI200",
+      "holdings": null
+    }
+  ],
+  "options": [
+    {
+      "underlying": "KOSPI200",
+      "expiry": null,
+      "spot": null,
+      "chain": []
+    }
+  ]
+}
