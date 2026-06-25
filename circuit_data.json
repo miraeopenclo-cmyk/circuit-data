@@ -1,6 +1,6 @@
 {
   "meta": {
-    "asof": "2026-06-24 14:30",
+    "asof": "2026-06-25 14:30",
     "source": "KIS Open API (via kis_proxy)",
     "note": "AUM 필드명·옵션OI·단일레버리지 일부코드는 RA 검증 항목"
   },
@@ -10,9 +10,9 @@
       "name": "삼성전자",
       "type": "stock",
       "group": "kr_chip",
-      "market_cap": 1960.0,
-      "adv_value": 10.793,
-      "price": 335250.0,
+      "market_cap": 2113.4,
+      "adv_value": 10.934,
+      "price": 361500.0,
       "index_weight": {
         "KOSPI200": 0.3
       }
@@ -22,9 +22,9 @@
       "name": "SK하이닉스",
       "type": "stock",
       "group": "kr_chip",
-      "market_cap": 1865.1,
-      "adv_value": 13.8,
-      "price": 2617000.0,
+      "market_cap": 2111.0,
+      "adv_value": 13.82,
+      "price": 2962000.0,
       "index_weight": {
         "KOSPI200": 0.075
       }
@@ -267,43 +267,43 @@
       "holdings": [
         {
           "node_id": "000660",
-          "weight": 0.3322
+          "weight": 0.3232
         },
         {
           "node_id": "005930",
-          "weight": 0.29350000000000004
+          "weight": 0.3105
         },
         {
           "node_id": "042700",
-          "weight": 0.0818
+          "weight": 0.0824
         },
         {
           "node_id": "240810",
-          "weight": 0.062400000000000004
+          "weight": 0.0603
         },
         {
           "node_id": "000990",
-          "weight": 0.058899999999999994
+          "weight": 0.057300000000000004
         },
         {
           "node_id": "058470",
-          "weight": 0.053
+          "weight": 0.0513
         },
         {
           "node_id": "039030",
-          "weight": 0.0495
+          "weight": 0.0504
         },
         {
           "node_id": "403870",
-          "weight": 0.0365
+          "weight": 0.0336
         },
         {
           "node_id": "095340",
-          "weight": 0.018799999999999997
+          "weight": 0.0182
         },
         {
           "node_id": "357780",
-          "weight": 0.013300000000000001
+          "weight": 0.0129
         }
       ]
     },
