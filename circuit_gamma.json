@@ -1,0 +1,187 @@
+{
+  "gex": {
+    "underlying": "KOSPI200",
+    "spot": 1454.15,
+    "contract_mult": 250000,
+    "expiry": "2026-07-09",
+    "gamma_source": "bs_computed(iv=0.15)",
+    "strikes": [
+      {
+        "k": 1425.0,
+        "call_oi": 65,
+        "put_oi": 22,
+        "call_gamma": 0.00720651,
+        "put_gamma": 0.00720651
+      },
+      {
+        "k": 1427.5,
+        "call_oi": 24,
+        "put_oi": 23,
+        "call_gamma": 0.00754383,
+        "put_gamma": 0.00754383
+      },
+      {
+        "k": 1430.0,
+        "call_oi": 59,
+        "put_oi": 988,
+        "call_gamma": 0.00786617,
+        "put_gamma": 0.00786617
+      },
+      {
+        "k": 1432.5,
+        "call_oi": 35,
+        "put_oi": 37,
+        "call_gamma": 0.00817048,
+        "put_gamma": 0.00817048
+      },
+      {
+        "k": 1435.0,
+        "call_oi": 26,
+        "put_oi": 300,
+        "call_gamma": 0.00845385,
+        "put_gamma": 0.00845385
+      },
+      {
+        "k": 1437.5,
+        "call_oi": 287,
+        "put_oi": 35,
+        "call_gamma": 0.00871348,
+        "put_gamma": 0.00871348
+      },
+      {
+        "k": 1440.0,
+        "call_oi": 72,
+        "put_oi": 105,
+        "call_gamma": 0.00894682,
+        "put_gamma": 0.00894682
+      },
+      {
+        "k": 1442.5,
+        "call_oi": 16,
+        "put_oi": 54,
+        "call_gamma": 0.00915153,
+        "put_gamma": 0.00915153
+      },
+      {
+        "k": 1445.0,
+        "call_oi": 19,
+        "put_oi": 67,
+        "call_gamma": 0.00932557,
+        "put_gamma": 0.00932557
+      },
+      {
+        "k": 1447.5,
+        "call_oi": 12,
+        "put_oi": 35,
+        "call_gamma": 0.00946721,
+        "put_gamma": 0.00946721
+      },
+      {
+        "k": 1450.0,
+        "call_oi": 844,
+        "put_oi": 444,
+        "call_gamma": 0.00957508,
+        "put_gamma": 0.00957508
+      },
+      {
+        "k": 1452.5,
+        "call_oi": 3,
+        "put_oi": 46,
+        "call_gamma": 0.00964816,
+        "put_gamma": 0.00964816
+      },
+      {
+        "k": 1455.0,
+        "call_oi": 28,
+        "put_oi": 101,
+        "call_gamma": 0.00968583,
+        "put_gamma": 0.00968583
+      },
+      {
+        "k": 1457.5,
+        "call_oi": 43,
+        "put_oi": 58,
+        "call_gamma": 0.00968785,
+        "put_gamma": 0.00968785
+      },
+      {
+        "k": 1460.0,
+        "call_oi": 247,
+        "put_oi": 113,
+        "call_gamma": 0.0096544,
+        "put_gamma": 0.0096544
+      },
+      {
+        "k": 1462.5,
+        "call_oi": 1034,
+        "put_oi": 121,
+        "call_gamma": 0.00958601,
+        "put_gamma": 0.00958601
+      },
+      {
+        "k": 1465.0,
+        "call_oi": 53,
+        "put_oi": 29,
+        "call_gamma": 0.0094836,
+        "put_gamma": 0.0094836
+      },
+      {
+        "k": 1467.5,
+        "call_oi": 45,
+        "put_oi": 23,
+        "call_gamma": 0.00934846,
+        "put_gamma": 0.00934846
+      },
+      {
+        "k": 1470.0,
+        "call_oi": 109,
+        "put_oi": 100,
+        "call_gamma": 0.00918218,
+        "put_gamma": 0.00918218
+      },
+      {
+        "k": 1472.5,
+        "call_oi": 46,
+        "put_oi": 64,
+        "call_gamma": 0.00898667,
+        "put_gamma": 0.00898667
+      },
+      {
+        "k": 1475.0,
+        "call_oi": 58,
+        "put_oi": 32,
+        "call_gamma": 0.00876409,
+        "put_gamma": 0.00876409
+      },
+      {
+        "k": 1477.5,
+        "call_oi": 74,
+        "put_oi": 43,
+        "call_gamma": 0.00851683,
+        "put_gamma": 0.00851683
+      },
+      {
+        "k": 1480.0,
+        "call_oi": 113,
+        "put_oi": 41,
+        "call_gamma": 0.00824744,
+        "put_gamma": 0.00824744
+      },
+      {
+        "k": 1482.5,
+        "call_oi": 30,
+        "put_oi": 14,
+        "call_gamma": 0.00795865,
+        "put_gamma": 0.00795865
+      },
+      {
+        "k": 1485.0,
+        "call_oi": 30,
+        "put_oi": 93,
+        "call_gamma": 0.00765325,
+        "put_gamma": 0.00765325
+      }
+    ]
+  },
+  "asof": "2026-06-26T04:16:47+09:00"
+}
