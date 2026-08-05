@@ -1,6 +1,6 @@
 {
   "meta": {
-    "asof": "2026-08-04 14:30",
+    "asof": "2026-08-05 14:30",
     "source": "KIS Open API (via kis_proxy)",
     "note": "AUM 필드명·옵션OI·단일레버리지 일부코드는 RA 검증 항목"
   },
@@ -10,9 +10,9 @@
       "name": "삼성전자",
       "type": "stock",
       "group": "kr_chip",
-      "market_cap": 1365.1,
-      "adv_value": 8.042,
-      "price": 233500.0,
+      "market_cap": 1454.3,
+      "adv_value": 7.866,
+      "price": 248750.0,
       "index_weight": {
         "KOSPI200": 0.3
       }
@@ -22,9 +22,9 @@
       "name": "SK하이닉스",
       "type": "stock",
       "group": "kr_chip",
-      "market_cap": 1114.7,
-      "adv_value": 11.989,
-      "price": 1526000.0,
+      "market_cap": 1230.9,
+      "adv_value": 11.639,
+      "price": 1685000.0,
       "index_weight": {
         "KOSPI200": 0.075
       }
@@ -257,79 +257,79 @@
       "holdings": [
         {
           "node_id": "000660",
-          "weight": 0.3826
+          "weight": 0.3925
         },
         {
           "node_id": "005930",
-          "weight": 0.2339
+          "weight": 0.23149999999999998
         },
         {
           "node_id": "042700",
-          "weight": 0.062
+          "weight": 0.0605
         },
         {
           "node_id": "036930",
-          "weight": 0.0311
+          "weight": 0.030600000000000002
         },
         {
           "node_id": "058470",
-          "weight": 0.0233
+          "weight": 0.022799999999999997
         },
         {
           "node_id": "240810",
-          "weight": 0.0232
+          "weight": 0.0223
         },
         {
           "node_id": "039030",
-          "weight": 0.019299999999999998
+          "weight": 0.0191
         },
         {
           "node_id": "000990",
-          "weight": 0.0189
-        },
-        {
-          "node_id": "319660",
-          "weight": 0.0181
+          "weight": 0.019
         },
         {
           "node_id": "222800",
           "weight": 0.0175
         },
         {
+          "node_id": "319660",
+          "weight": 0.0174
+        },
+        {
           "node_id": "403870",
-          "weight": 0.0169
+          "weight": 0.016399999999999998
         },
         {
           "node_id": "440110",
-          "weight": 0.0166
+          "weight": 0.016399999999999998
         },
         {
           "node_id": "080220",
-          "weight": 0.0155
+          "weight": 0.0158
         },
         {
           "node_id": "084370",
-          "weight": 0.012
+          "weight": 0.0118
         },
         {
           "node_id": "098460",
-          "weight": 0.0113
+          "weight": 0.011000000000000001
         },
         {
           "node_id": "067310",
-          "weight": 0.0108
+          "weight": 0.0106
         },
         {
           "node_id": "095340",
-          "weight": 0.0098
+          "weight": 0.009899999999999999
         },
         {
           "node_id": "089030",
-          "weight": 0.0095
+          "weight": 0.0089
         },
         {
           "node_id": "064760",
-          "weight": 0.0073
+          "weight": 0.0070999999999999995
         },
         {
           "node_id": "323280",
@@ -341,39 +341,39 @@
         },
         {
           "node_id": "131970",
-          "weight": 0.0058
+          "weight": 0.005600000000000001
         },
         {
           "node_id": "031980",
-          "weight": 0.0054
-        },
-        {
-          "node_id": "322000",
-          "weight": 0.005
+          "weight": 0.0052
         },
         {
           "node_id": "101490",
           "weight": 0.005
         },
         {
-          "node_id": "166090",
-          "weight": 0.0042
+          "node_id": "322000",
+          "weight": 0.0048
         },
         {
           "node_id": "281820",
           "weight": 0.0040999999999999995
         },
         {
+          "node_id": "166090",
+          "weight": 0.004
+        },
+        {
           "node_id": "161580",
-          "weight": 0.0033
+          "weight": 0.0031
         },
         {
           "node_id": "213420",
-          "weight": 0.003
+          "weight": 0.0028000000000000004
         },
         {
-          "node_id": "108320",
-          "weight": 0.0028000000000000004
+          "node_id": "036540",
+          "weight": 0.0027
         }
       ]
     },
@@ -388,43 +388,43 @@
       "holdings": [
         {
           "node_id": "005930",
-          "weight": 0.30260000000000004
+          "weight": 0.29760000000000003
         },
         {
           "node_id": "000660",
-          "weight": 0.2565
+          "weight": 0.2616
         },
         {
           "node_id": "402340",
-          "weight": 0.2192
+          "weight": 0.2238
         },
         {
           "node_id": "042700",
-          "weight": 0.051
+          "weight": 0.049400000000000006
         },
         {
           "node_id": "036930",
-          "weight": 0.039900000000000005
+          "weight": 0.039
         },
         {
           "node_id": "007660",
-          "weight": 0.0371
+          "weight": 0.0374
         },
         {
           "node_id": "240810",
-          "weight": 0.0276
-        },
-        {
-          "node_id": "058470",
-          "weight": 0.022099999999999998
-        },
-        {
-          "node_id": "039030",
-          "weight": 0.0219
+          "weight": 0.0264
         },
         {
           "node_id": "000990",
-          "weight": 0.0219
+          "weight": 0.0218
+        },
+        {
+          "node_id": "039030",
+          "weight": 0.0216
+        },
+        {
+          "node_id": "058470",
+          "weight": 0.0215
         }
       ]
     },
